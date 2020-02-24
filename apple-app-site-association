@@ -1,15 +1,1 @@
-{
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "9JA89QQLNQ.com.apple.wwdc",
-                "paths": [ "/wwdc/news/", "/videos/wwdc/2015/*"]
-            },
-            {
-                "appID": "ABCD1234.com.apple.wwdc",
-                "paths": [ "*" ]
-            }
-        ]
-    }
-}
+{ "applinks": { "apps": [], "details": { "8J52SRPW6X.com.zhihu.ios": { "paths":[ "*" ] }, "886PYH8YW5.com.zhihu.ios": { "paths":[ "*" ] }, "B6MTNRMU2Y.com.zhihu.ios": { "paths":[ "*" ] }, "B6MTNRMU2Y.com.zhihu.ios-dev": { "paths":[ "*" ] } } }, "webcredentials": { "apps": [ "8J52SRPW6X.com.zhihu.ios", "886PYH8YW5.com.zhihu.ios", "B6MTNRMU2Y.com.zhihu.ios", "B6MTNRMU2Y.com.zhihu.ios-dev" ] }, "activitycontinuation": { "apps": [ "8J52SRPW6X.com.zhihu.ios", "886PYH8YW5.com.zhihu.ios", "B6MTNRMU2Y.com.zhihu.ios", "B6MTNRMU2Y.com.zhihu.ios-dev" ] } }
