@@ -64,8 +64,8 @@ ul.off-canvas-list li a:hover{background: #335a79;}
   -webkit-text-size-adjust: 100%;
   color: #333;
   overflow: hidden;
-  font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
-  font-size: 16px;
+  font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif !important;
+  font-size: 12px;
   line-height: 1.6;
   word-wrap: break-word;
 }
@@ -562,4 +562,14 @@ ul.off-canvas-list li a:hover{background: #335a79;}
   float: left;
   margin: 0.3em 0 0.25em -1.6em;
   vertical-align: middle;
+}
+
+p {
+  font-family: inherit;
+   font-size: 14px;
+  font-weight: normal;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  text-rendering: optimizeLegibility;
+  font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif !important;
 }
